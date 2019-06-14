@@ -1,0 +1,5 @@
+10-10-False-72-0-72-72-assets/button/volume.png-change_volume
+285-640-True-55-545-190-75-assets/button/buttons.png-change_volume
+475-640-True-395-545-210-75-assets/button/buttons.png-change_volume
+685-640-True-75-448-142-75-assets/button/buttons.png-change_volume
+900-640-True-395-355-100-75-assets/button/buttons.png-change_volume

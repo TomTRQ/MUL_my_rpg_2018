@@ -1,0 +1,4 @@
+une ligne = un button / '-' sépare
+pos.x-pos.y-var-rect.left-rect.top-rect.width-rect.height-texture_path-name_callback
+var = charger pas toute l'image ou non (True = charger une partie / false =
+charger toute l'image)

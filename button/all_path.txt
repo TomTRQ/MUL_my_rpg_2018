@@ -1,0 +1,13 @@
+assets/button/menu.txt
+assets/button/pause.txt
+assets/button/inventory.txt
+assets/button/fight.txt
+assets/button/village.txt
+assets/button/house_down.txt
+assets/button/house_up.txt
+assets/button/path_wood.txt
+assets/button/donjon_wood.txt
+assets/button/path_mine.txt
+assets/button/donjon_mine.txt
+assets/button/path_water.txt
+assets/button/donjon_water.txt
