@@ -1,0 +1,5 @@
+path_water
+200-72-1280-720
+1200-360
+assets/background/path_water.png
+assets/map/path_water.txt

@@ -1,0 +1,1 @@
+assets/obj/cookie.png:0:0:0:0

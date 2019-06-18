@@ -1,0 +1,13 @@
+assets/configuration/menu.txt
+assets/configuration/pause.txt
+assets/configuration/inventory.txt
+assets/configuration/fight.txt
+assets/configuration/village.txt
+assets/configuration/house_down.txt
+assets/configuration/house_up.txt
+assets/configuration/path_wood.txt
+assets/configuration/donjon_wood.txt
+assets/configuration/path_mine.txt
+assets/configuration/donjon_mine.txt
+assets/configuration/path_water.txt
+assets/configuration/donjon_water.txt

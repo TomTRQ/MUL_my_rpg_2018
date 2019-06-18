@@ -1,0 +1,5 @@
+house_up
+0-0-1280-720
+1000-396
+assets/background/house_up.png
+assets/map/house_up.txt

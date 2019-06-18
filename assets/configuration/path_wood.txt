@@ -1,0 +1,5 @@
+path_wood
+0-240-1280-720
+592-630
+assets/background/path_wood.png
+assets/map/path_wood.txt

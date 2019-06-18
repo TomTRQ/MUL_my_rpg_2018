@@ -1,0 +1,5 @@
+menu
+600-370-1280-720
+0-0
+assets/background/menu.jpg
+assets/map/menu.txt

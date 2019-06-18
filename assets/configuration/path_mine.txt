@@ -1,0 +1,5 @@
+path_mine
+0-0-1280-720
+0-132
+assets/background/path_mine.png
+assets/map/path_mine.txt

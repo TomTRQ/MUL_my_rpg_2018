@@ -1,0 +1,3 @@
+10-10-False-72-0-72-72-assets/button/volume.png-change_volume
+510-240-True-29-41-245-90-assets/button/buttons.png-start_game
+510-480-True-404-41-243-90-assets/button/buttons.png-exit_game

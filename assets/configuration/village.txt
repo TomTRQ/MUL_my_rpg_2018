@@ -1,0 +1,5 @@
+village
+30-500-1280-720
+423-292
+assets/background/village.png
+assets/map/village.txt

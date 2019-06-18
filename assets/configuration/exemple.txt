@@ -1,0 +1,4 @@
+name scene
+int rect image (savoir où démarrer)
+path pour la texture
+path map en txt

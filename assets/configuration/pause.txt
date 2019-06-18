@@ -1,0 +1,5 @@
+pause
+0-0-1280-720
+0-0
+assets/background/pause.jpg
+assets/map/pause.txt

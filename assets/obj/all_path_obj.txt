@@ -1,0 +1,11 @@
+assets/obj/attack_potion.txt
+assets/obj/life_potion.txt
+assets/obj/agility_potion.txt
+assets/obj/blade_begin.txt
+assets/obj/blade_end.txt
+assets/obj/clothes_begin.txt
+assets/obj/clothes_end.txt
+assets/obj/shield_begin.txt
+assets/obj/shield_end.txt
+assets/obj/cookie.txt
+assets/obj/sand.txt

@@ -1,0 +1,11 @@
+ENEMY:NAME TEXTURE:FILE SPAWN:MAP ID:LOOT CHANCE:LOOT FIGHT:TEXTURE:FILE HP DEFENSE ATTACK ATTACK:SPEED CHANCE:CRITICISM XP
+bat assets/enemies/mobs.png path_wood 1 30 assets/enemies/Bat.png 50 20 15 2 10 20
+ghost assets/enemies/mobs.png donjon_wood 1 20 assets/enemies/Ghost.png 70 35 20 2 15 40
+minotaur assets/enemies/mobs.png path_mine 1 20 assets/enemies/Minotaur.png 130 50 35 1 15 75
+ghost assets/enemies/mobs.png donjon_mine 1 20 assets/enemies/Ghost.png 70 35 20 2 15 40
+bat assets/enemies/mobs.png path_water 1 30 assets/enemies/Bat.png 50 20 15 2 10 200
+ghost assets/enemies/mobs.png donjon_water 1 20 assets/enemies/Ghost.png 70 35 20 2 15 400
+forest_boss assets/enemies/boss2.png donjon_wood 1 100 assets/enemies/Forest_boss.png 150 60 40 3 10 150
+mine_boss assets/enemies/boss2.png donjon_mine 1 100 assets/enemies/Mine_boss.png 200 70 50 2 10 200
+water_boss assets/enemies/boss1.png donjon_water 1 100 assets/enemies/Water_boss.png 250 80 60 3 10 250
+final_boss assets/enemies/boss1.png village 1 100 assets/enemies/Final_boss.png 300 100 80 2 10 400
